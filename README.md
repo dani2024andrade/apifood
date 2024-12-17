@@ -1,9 +1,8 @@
+
 # FoodExplorer
 
-Aqui está a primeira versão do aplicativo FoodExplorer. Este projeto tem como finalidade inicial o gerenciamento de pratos em um restaurante, permitindo a inclusão, exclusão e edição, funcionalidade que só é permitida pelo usuário administrador. Por parte dos clientes, é possível incluir pratos no carrinho por tipo e visualizar as informações individuais de cada prato. Neste projeto, ainda serão implementadas funcionalidades ao longo do tempo.  
-# FoodExplorer
-
-Aqui está a primeira versão do aplicativo FoodExplorer. Este projeto tem como finalidade inicial o gerenciamento de pratos em um restaurante, permitindo a inclusão, exclusão e edição, funcionalidade que só é permitida pelo usuário administrador. Por parte dos clientes, é possível incluir pratos no carrinho por tipo e visualizar as informações individuais de cada prato. Neste projeto, ainda serão implementadas funcionalidades ao longo do tempo.  
+Essa é a primeira versão do aplicativo FoodExplorer. Este projeto tem como objetivo o gerenciamento de pratos em um restaurante, através a inclusão, exclusão e edição, funcionalidade que só é permitida pelo usuário administrador. Por parte dos clientes, é possível incluir pratos no carrinho por tipo e visualizar as informações individuais de cada prato. Neste projeto, ainda serão acrescidas funcionalidades ao longo do tempo.  
+o tempo.  
 
 ![image](https://github.com/user-attachments/assets/92a93728-3506-428b-ad92-be20b48ac54c)
 
