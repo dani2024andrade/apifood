@@ -1,7 +1,7 @@
 // Imports
 require("express-async-errors");
 
-const AppError = require("./src/server.js")
+const AppError = require("./utils/AppError");
 const express = require('express');
 const uploadConfig = require("./configs/upload");
 const routes = require("./routes");
